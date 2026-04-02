@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eric
 
-<!--
-**Eric19881020/Eric19881020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on packaging, developer tooling, and practical open-source contributions.
 
-Here are some ideas to get you started:
+## Current focus
+- Contributing to Python open-source projects
+- Learning testing, CI, and code review workflows
+- Building a solid public contribution history
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Python packaging
+- CLI tools
+- Developer productivity
+- Dependency and security tooling
