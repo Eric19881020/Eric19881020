@@ -12,3 +12,8 @@ Python developer focused on packaging, developer tooling, and practical open-sou
 - CLI tools
 - Developer productivity
 - Dependency and security tooling
+
+## Goals for 2026
+- Make consistent contributions to ecosystem-impact Python projects
+- Improve debugging, testing, and review skills
+- Build a credible open-source track record
